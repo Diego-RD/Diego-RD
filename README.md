@@ -1,5 +1,3 @@
-# Diego-RD
-
 ## Sobre Mim
 Olá, meu nome é Diego Rodrigues, tenho 32 anos e estou iniciando meus estudos sobre programação. Gosto de aprender e estar sempre evoluindo. Atualmente, estou no 3º semestre do curso de ADS EAD (Análise e Desenvolvimento de Sistemas), e estou trabalhando em outra área no momento (operador de ecommerce), mas em breve espero conseguir fazer minha transição de carreira e conquistar minha primeira oportunidade na área <span style="color: green;">**Tech**</span>.
 
