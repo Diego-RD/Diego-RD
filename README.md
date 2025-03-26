@@ -3,7 +3,6 @@ Olá, meu nome é Diego Rodrigues, tenho 32 anos e estou iniciando meus estudos 
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/diego-rodrigues-409479288/)
-[![GitHub](https://img.shields.io/badge/GitHub-00?style=for-the-badge&logo=github&logoColor=000)](https://github.com/Diego-RD)
 [![Instagram](https://img.shields.io/badge/-Instagram-00?style=for-the-badge&logo=instagram&logoColor=000)](https://www.instagram.com/dut1.dev/)
 
 ## Linguagens de Programação
